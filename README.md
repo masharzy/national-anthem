@@ -1,7 +1,11 @@
 <h1>National Anthem Of Bangladesh</h1>
 
+<style>
+strong{
+  text-align:center;
+  }
+</style>
 
-<center>
   <strong>
             আমার সোনার বাংলা,<br>
             আমি তোমায় ভালোবাসি। <br>
@@ -22,4 +26,4 @@
             মা, তোর বদনখানি মলিন হলে,<br>
             ও মা, আমি নয়নজলে ভাসি ।।<br>
         </strong>
-  </center>
+ 
